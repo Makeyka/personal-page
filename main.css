@@ -149,7 +149,7 @@ li {
 }
 
 .menu-toggler {
-     position: absolute;
+     position: fixed;
      top: 2rem;
      right: 3rem;
      width: 3rem;
@@ -458,6 +458,7 @@ textarea {
 
 input[type="submit"] {
      width: initial;
+     font-weight: 600;
      background-color: #FD57BF;
      color: #EEE;
      padding: 1rem 2rem;
