@@ -464,6 +464,7 @@ input[type="submit"] {
      padding: 1rem 2rem;
      cursor: pointer;
      transition: background-color 650ms;
+     margin-bottom: 115px;
 }
 
 input[type="submit"]:hover {
